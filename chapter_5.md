@@ -9,7 +9,7 @@ The cursor methods are somewhat similar to Array methods, but are specifically d
 Some of the cursor methods:
 
 -   `.forEach()` allows us to perform a specific function for each document
--   `.toArray*()` converts the cursor to an array of documents
+-   `.toArray()` converts the cursor to an array of documents
 -   `.sort()` sorts the data
 -   `.limit()` limits the returned amount of data to a specific number of documents
 -   `.skip()` skips a number of document
