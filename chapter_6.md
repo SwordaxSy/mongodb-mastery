@@ -40,7 +40,7 @@ Here are some of the most popular stages that can be ised in MongoDB aggregation
 
 -   `$match`: filters for data that matches a criteria
 -   `$group`: groups documents based on specified criteria
--   `$sort`L puts documents in a specified order
+-   `$sort`: puts documents in a specified order
 
 Here is an example of using the `$match` stage:
 
